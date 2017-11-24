@@ -1,9 +1,10 @@
 # Course Ethics, Law & Profession of Computer Science   /    Ética, Legislación y Profesión de la Informática
 ## Intro
-This repository compiles information from the course encoded "ELP" from the Faculty of Computer Science at the Universidad Complutense de Madrid. You may find additional information on the course activities in its wiki, mostly self-maintained by the ELP students, in http://wikis.fdi.ucm.es/ELP/
+This repository compiles information from the course encoded "ELP" from the Faculty of Computer Science at the Universidad Complutense de Madrid. This course is a 1-semester 6 ECTS-credits mandatory course for 4 CS majors, that has been taught every year since 2012. It follows highly participatory and experimental methodologies. You may find additional information on the course activities in its wiki, mostly self-maintained by the ELP students, in http://wikis.fdi.ucm.es/ELP/ (in Spanish)
 
 ## Contents
 The official simplified syllabus is provided in PDF. The course is taught with a very participatory approach, inspired by grassroots facilitation. Students are encouraged to participate and own the course, taking decisions that affect themselves, such as which content to get deeper or skip, or changes in their own evaluation. The contents of the repository will especially be compilations of relevant links by topic. The links are curated to incentivize important insights and trigger debate. The repository will also compile some open-licensed books related to the course. 
+**I'll be progressively uploading the link compilation, by topic covered, during Q4 2017**
 
 ## License & Authorship
 All contents are released as CC BY 4.0 International, as better specified in the [LICENSE.md file](https://github.com/s-a-m/UCM-Fdi-ELP/blob/master/LICENSE.md). 
