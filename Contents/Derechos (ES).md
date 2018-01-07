@@ -75,7 +75,7 @@
 -   Story Israel: <http://yro.slashdot.org/story/11/07/10/0438252/Facebook-Helps-Israel-Blacklist-Air-Travellers>
 -   Black Mirror
 
-## Sistemas descentralizados<a id="sec-1-4" name="sec-1-4"></a>
+## Sistemas distribuidos<a id="sec-1-4" name="sec-1-4"></a>
 
 -   Tor
 -   Bitcoin
