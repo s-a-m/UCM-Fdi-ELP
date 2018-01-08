@@ -35,7 +35,7 @@
 -   Brainstorming tipos de empresa/entidad donde trabajar
     -   Multinacional
     -   Pyme
-    -   cooperativa
+    -   Cooperativa
         -   **Mercado economía social** (consumo responsable, impacto en peq) <https://madrid.mercadosocial.net/>
         -   Characteristics of co-ops <http://www.shareable.net/blog/what-we-know-about-worker-co-opswww.shareable.net/blog/what-we-know-about-worker-co-ops>
     -   Start-up
@@ -54,11 +54,11 @@
         -   Artículos
         -   Interdisc
         -   =>Doctorado => Profesor y/o Investigador
-    -   enseñanza secundaria/primaria
+    -   Enseñanza secundaria/primaria
     -   Asociación/Fundación/ONG
         -   <https://john.onolan.org/what-it-means-to-be-non-profit/>
     
-    -   SL? => transversal
+    -   ¿SL? => transversal
 
 ## Ejemplos destacables<a id="sec-1-2" name="sec-1-2"></a>
 
@@ -76,21 +76,21 @@
     -   Github
     -   "Cómo entrar en Google"
     -   Asociacionismo
-    -   Nota media?
+    -   ¿Nota media?
     -   <http://wikis.fdi.ucm.es/ELP/Curr%C3%ADculum_Vitae>
     -   <http://wikis.fdi.ucm.es/ELP/CURRICULUM_VITAE_y_su_caracter%C3%ADsticas>
 
 -   ¡Haced lo que os apasiona! 
     -   Prob: ¿Te apasionan muchas cosas?
-        -   profundizad, buscar solapamientos, si convergen varias cosas que os apasionan -> nicho!
+        -   Profundizad, buscar solapamientos, si convergen varias cosas que os apasionan -> nicho!
     -   Prob: ¿No sabes lo que te apasiona?
-        -   picotead, utilizad los cursos online (p2pu, coursera, etc) para empezaros uno, si os mola seguid, si no cambiad (sin terminarlo), y así&#x2026;
+        -   Picotead, utilizad los cursos online (p2pu, coursera, etc) para empezaros uno, si os mola seguid, si no cambiad (sin terminarlo), y así&#x2026;
             -   CV: **p2pu**, coursera, khan academy, udacity, udemy, moocs (stanford, mit&#x2026;), oer, gsoc
             -   Gráfico 3 círculos, solapamiento -> pasión: <http://blog.ed.ted.com/2016/05/10/7-ideas-about-finding-the-work-you-were-meant-to-do/>
 -   Becas:
     -   <http://wikis.fdi.ucm.es/ELP/Becas>
     -   <http://wikis.fdi.ucm.es/ELP/Directorio_de_becas>
--   Entrevista? TED Body language before interview/presentation
+-   ¿Entrevista? TED Body language before interview/presentation
     -   <https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are/transcript#t-1243640>
 
 -   Consejos buen Ingeniero Informático:
@@ -111,7 +111,7 @@
     -   <http://contributor-covenant.org/version/1/4/>
 
 Responsabilidad de desarrolladores:
-desarrollo acrítico que recomienda medicinas:
+Desarrollo acrítico que recomienda medicinas:
 <https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.41xn1ludc> 
 
 Compromiso de no desarrollar determinadas cosas:
