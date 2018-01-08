@@ -1,11 +1,11 @@
 <div id="table-of-contents">
-<h2>Table of Contents</h2>
+<h2>Contenidos</h2>
 <div id="text-table-of-contents">
 <ul>
 <li><a href="#sec-1">1. (3a) Derechos digitales. Libertad de expresión. Comunidades online. Anonimato. Censura. Transparencia. Neutralidad de red.</a>
 <ul>
 <li><a href="#sec-1-1">1.1. 2 Paradigmas</a></li>
-<li><a href="#sec-1-2">1.2. Paranoia? Encryption, Data</a></li>
+<li><a href="#sec-1-2">1.2. ¿Paranoia? Cifrado, datos</a></li>
 <li><a href="#sec-1-3">1.3. Restrictions</a></li>
 <li><a href="#sec-1-4">1.4. Sistemas descentralizados</a></li>
 </ul>
@@ -24,29 +24,29 @@
     -   SOPA <https://es.wikipedia.org/wiki/Stop_Online_Piracy_Act>
     -   "Declaración de Independencia del Ciberespacio" <http://biblioweb.sindominio.net/telematica/manif_barlow.html>
 -   Internet helps democracy or otherwise?
-    -   fake news
-    -   gamergate
-        -   anonymous role
-    -   doxxing
-    -   bullying
-    -   trolls
-    -   elections
-        -   wikileaks role
-    -   bots
+    -   Fake news
+    -   Gamergate
+        -   Anonymous role
+    -   Doxxing
+    -   Bullying
+    -   Trolls
+    -   Elections
+        -   Wikileaks role
+    -   Bots
     -   AI bias
         -   Microsoft's Tay tweets, "full nazi"
         -   Bias Google Images "CEO"
     -   Minorías
     -   Data: leaks, <http://haveibeenpwned.com>
-    -   echo chambers
+    -   Echo chambers
 
-## Paranoia? Encryption, Data<a id="sec-1-2" name="sec-1-2"></a>
+## ¿Paranoia? Cifrado, datos<a id="sec-1-2" name="sec-1-2"></a>
 
--   What's internet? => submarine cable photo ![img](//www.telegeography.com/assets/website/images/maps/submarine-cable-map-2009/submarine-cable-map-2009-x.jpg)
+-   ¿Qué es internet? =>  [fotografia de los cables submarinos](www.telegeography.com/assets/website/images/maps/submarine-cable-map-2009/submarine-cable-map-2009-x.jpg)
 -   HTTPS
-    -   Hotmail desactiva HTTPS en primavera árabe <https://www.eff.org/deeplinks/2011/03/microsoft-shuts-https-hotmail-over-dozen-countries>
+    -   Hotmail desactiva HTTPS en la primavera árabe <https://www.eff.org/deeplinks/2011/03/microsoft-shuts-https-hotmail-over-dozen-countries>
     -   HTTPS Everywhere
-    -   China censura, y HTTPS, y DDoS a Github: <https://www.techdirt.com/articles/20150331/07002030498/chinas-great-firewall-turned-around-why-china-wants-to-censor-global-internet.shtml>
+    -   Censura en china, y HTTPS, y DDoS a Github: <https://www.techdirt.com/articles/20150331/07002030498/chinas-great-firewall-turned-around-why-china-wants-to-censor-global-internet.shtml>
 -   TSA keys:
     -   TSA locks backdoor <http://jasongriffey.net/wp/2015/10/19/tsa-master-keys-threat-models-and-encryption/>
     -   UK's ban of encryption: <https://en.wikipedia.org/wiki/Encryption_ban_proposal_in_the_United_Kingdom>
@@ -61,13 +61,13 @@
 
 ## Restrictions<a id="sec-1-3" name="sec-1-3"></a>
 
--   Quién ha creado y subido material a la red? vídeos? fotos? textos? gdocs? Padre consumidor de info
-    -   paradigma
+-   ¿Quién ha creado y subido material a la red? ¿Vídeos? ¿Fotos? ¿Textos? ¿Documentos? Padre consumidor de información
+    -   Paradigma
 -   CMS => Blogosfera
--   buscar "ikea"/"movistar" y en la misma página, "ikeahackers"/"movilzona" u otrxs
+-   Buscar "ikea"/"movistar" y en la misma página, "ikeahackers"/"movilzona" u otrxs
 -   Google
 -   <http://internetnoseraotratv.net/es> (dibujo Brieva)
-    -   ![img](//artiumtb.neokinok.tv/wp-content/uploads/2010/11/posterbolases.jpg)
+    -   ![img](artiumtb.neokinok.tv/wp-content/uploads/2010/11/posterbolases.jpg)
 -   Internet.org of Fb is that&#x2026; app with 4 apps for Zambia, 38 webs for India&#x2026; (& Fb without imgs and vid)
 -   Impuesto Hungría: 0,5€/GB: <http://ciberderechos.barrapunto.com/article.pl?sid=14/10/27/2252208>
 -   Political groups deleted (Grupo Fb pone que grupos de protesta se coordinaban por Fb): <https://anticutsspace.wordpress.com/2011/04/29/political-facebook-groups-deleted-on-royal-wedding-day/>

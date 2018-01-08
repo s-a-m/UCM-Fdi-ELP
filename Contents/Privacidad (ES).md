@@ -37,7 +37,7 @@
     -   <https://myactivity.google.com/more-activity>
     -   <https://maps.google.es/locationhistory/b/0/dashboard>
 
--   Terms of Agreement? => Prob, cómo solucionarlo?
+-   ¿Terminos y condiciones? => Prob, ¿cómo solucionarlo?
     -   Comic ToS: <http://www.gocomics.com/pearlsbeforeswine/2015/12/20>
     -   Privacy Icons
     -   <http://tosdr.org>
@@ -45,26 +45,26 @@
     -   PDF resumen muy muy bueno, con lista de herr alt por tipo: <http://espacio.fundaciontelefonica.com/wp-content/uploads/descargas/1426255189-ANONIMIZATE%20270X350.indd.pdf>
     -   <https://www.eff.org/privacybadger>
 
--   Whatsapp, fotos chica menor desnuda:
+-   Whatsapp, fotos de la chica menor desnuda:
     <http://sociedad.elpais.com/sociedad/2013/06/22/actualidad/1371906804_353717.html>
 
--   Smartphones: no comprendemos implicaciones
+-   Smartphones: no comprendemos las implicaciones
 <http://barrapunto.com/article.pl?sid=12/08/28/1139239>
 
 -   Designed for addiction: <http://www.cbc.ca/news/technology/marketplace-phones-1.4384876>
 
--   Big Data + face recognition&#x2026; con una cara, sacan toda tu info: <http://www.ted.com/talks/alessandro_acquisti_why_privacy_matters#t-323923>
+-   Big Data + face recognition&#x2026; con una cara, sacan toda tu información: <http://www.ted.com/talks/alessandro_acquisti_why_privacy_matters#t-323923>
 
 -   PRISM: NSA tiene acceso a Fb, G, MS, etc
     -   Guardian, summary: <http://www.youtube.com/watch?v=GoM4jIZbTtQ#t=104>
     -   Slides Wikipedia <http://en.wikipedia.org/wiki/PRISM_%28surveillance_program%29>
     -   Fragmento peli Snowden: <https://www.youtube.com/watch?v=kJRuqxkDvy4>
     -   Extra, Snowden (!) <http://www.guardian.co.uk/world/video/2013/jun/09/nsa-whistleblower-edward-snowden-interview-video>
-    
+
     -   TED: Why Privacy Matters <http://www.ted.com/talks/glenn_greenwald_why_privacy_mattezrs>
     -   Assange: the larger, the less privacy
         -   Wikileaks
-    
+
     -   Snowden rec sw: <http://barrapunto.com/article.pl?sid=14/10/13/2050208>
 
 -   !! Infografía China: <https://twitter.com/EkonMolina/status/923251495948169221>
