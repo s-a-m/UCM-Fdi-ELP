@@ -6,7 +6,7 @@
 <ul>
 <li><a href="#sec-1-1">1.1. 2 Paradigmas</a></li>
 <li><a href="#sec-1-2">1.2. ¿Paranoia? Cifrado, datos</a></li>
-<li><a href="#sec-1-3">1.3. Restrictions</a></li>
+<li><a href="#sec-1-3">1.3. Restricciones</a></li>
 <li><a href="#sec-1-4">1.4. Sistemas descentralizados</a></li>
 </ul>
 </li>
@@ -23,7 +23,7 @@
         -   <https://acuarelalibros.blogspot.com.es/2011/01/la-cena-del-miedo-mi-reunion-con-la.html>
     -   SOPA <https://es.wikipedia.org/wiki/Stop_Online_Piracy_Act>
     -   "Declaración de Independencia del Ciberespacio" <http://biblioweb.sindominio.net/telematica/manif_barlow.html>
--   Internet helps democracy or otherwise?
+-   ¿Internet ayuda a la democracia o tiene otros papeles?
     -   Fake news
     -   Gamergate
         -   Anonymous role
@@ -42,7 +42,7 @@
 
 ## ¿Paranoia? Cifrado, datos<a id="sec-1-2" name="sec-1-2"></a>
 
--   ¿Qué es internet? =>  [fotografia de los cables submarinos](www.telegeography.com/assets/website/images/maps/submarine-cable-map-2009/submarine-cable-map-2009-x.jpg)
+-   ¿Qué es internet? =>  [fotografia de los cables submarinos](http://www.telegeography.com/assets/website/images/maps/submarine-cable-map-2009/submarine-cable-map-2009-x.jpg)
 -   HTTPS
     -   Hotmail desactiva HTTPS en la primavera árabe <https://www.eff.org/deeplinks/2011/03/microsoft-shuts-https-hotmail-over-dozen-countries>
     -   HTTPS Everywhere
@@ -67,7 +67,7 @@
 -   Buscar "ikea"/"movistar" y en la misma página, "ikeahackers"/"movilzona" u otrxs
 -   Google
 -   <http://internetnoseraotratv.net/es> (dibujo Brieva)
-    -   ![img](artiumtb.neokinok.tv/wp-content/uploads/2010/11/posterbolases.jpg)
+    -   [img](http://artiumtb.neokinok.tv/wp-content/uploads/2010/11/posterbolases.jpg)
 -   Internet.org of Fb is that&#x2026; app with 4 apps for Zambia, 38 webs for India&#x2026; (& Fb without imgs and vid)
 -   Impuesto Hungría: 0,5€/GB: <http://ciberderechos.barrapunto.com/article.pl?sid=14/10/27/2252208>
 -   Political groups deleted (Grupo Fb pone que grupos de protesta se coordinaban por Fb): <https://anticutsspace.wordpress.com/2011/04/29/political-facebook-groups-deleted-on-royal-wedding-day/>
