@@ -19,7 +19,7 @@
 
 ## Dinámica tipos y criterios<a id="sec-1-1" name="sec-1-1"></a>
 
--   Brainstorming - Criterios para elegir trabajo
+-   Brainstorming - criterios para elegir trabajo
     -   Salario
     -   Estabilidad
     -   Explotación
@@ -32,7 +32,7 @@
     -   Ambiente/compas
     -   Aprender
     -   &#x2026;
--   Brainstorming tipos de empresa/entidad donde trabajar
+-   Brainstorming - tipos de empresa/entidad donde trabajar
     -   Multinacional
     -   Pyme
     -   Cooperativa
