@@ -8,7 +8,7 @@
 * The official simplified syllabus is provided in PDF. 
 * The contents of the repository will especially be **compilations of links** by topic. The links are curated to incentivize important insights and trigger debate. The links are in general **easy-to-digest materials** (e.g. news, short videos, infographs, comics) that communicate appropriately ideas, instead of dense articles or books (which many of my CS students won't read). 
 * The repository will also compile some open-licensed books related to the course. 
-**Today, the link compilation is in Spanish. I expect to progressively translate it to English during Q2 2018**
+* **Today, the link compilation is in Spanish. I expect to progressively translate it to English during Q2 2018**
 
 ## License & Authorship
 All contents are released as CC BY 4.0 International, as better specified in the [LICENSE.md file](https://github.com/s-a-m/UCM-Fdi-ELP/blob/master/LICENSE.md). 
