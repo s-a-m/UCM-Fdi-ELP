@@ -61,7 +61,7 @@
     -   Fragmento peli Snowden: <https://www.youtube.com/watch?v=kJRuqxkDvy4>
     -   Extra, Snowden (!) <http://www.guardian.co.uk/world/video/2013/jun/09/nsa-whistleblower-edward-snowden-interview-video>
     
-    -   TED: Why Privacy Matters <http://www.ted.com/talks/glenn_greenwald_why_privacy_mattezrs>
+    -   TED: Why Privacy Matters <http://www.ted.com/talks/glenn_greenwald_why_privacy_matters>
     -   Assange: the larger, the less privacy
         -   Wikileaks
     
