@@ -20,33 +20,31 @@
 ## Dinámica tipos y criterios<a id="sec-1-1" name="sec-1-1"></a>
 
 -   Brainstorming Criterios para elegir trabajo
-    -   Salario
+    -   Salario/Beneficios
     -   Estabilidad
     -   Explotación
     -   Ascensos
-    -   Ubicación
+    -   Ubicación/Viajes
     -   Puesto
     -   Creatividad
     -   Stress
     -   Prestigio
-    -   Ambiente/compas
-    -   Aprender
-    -   &#x2026;
+    -   Ambiente/Compas
+    -   Aprender/Tech puntera/Cursos
+      
+    
 -   Brainstorming tipos de empresa/entidad donde trabajar
-    -   Multinacional
-    -   Pyme
-    -   cooperativa
-        -   **Mercado economía social** (consumo responsable, impacto en peq) <https://madrid.mercadosocial.net/>
+    -   Multinacional (típicamente SA)
+    -   Pyme (típicamente SL)
+    -   Cooperativa (S.Coop.)
         -   Characteristics of co-ops <http://www.shareable.net/blog/what-we-know-about-worker-co-opswww.shareable.net/blog/what-we-know-about-worker-co-ops>
-    -   Start-up
+    -   Start-up (típicamente SA)
         -   Basics
-        -   Emprendedores, en España: <http://economia.elpais.com/economia/2012/09/21/actualidad/1348238953_210022.html>
-        -   Incubadoras: <http://economia.elpais.com/economia/2012/12/14/actualidad/1355496740_444015.html>
+        -   Emprendimiento, incubadoras
         -   TED 3min success: <http://www.ted.com/talks/richard_st_john_s_8_secrets_of_success.html>
-        -   SL o no
         -   Social o no
     -   Autónomo/freelance
-    -   Funcionario AAPP
+    -   Administración Pública
     -   Investigación/Enseñanza Univ
         -   **Círculo docto**
             -   <http://matt.might.net/articles/phd-school-in-pictures/>
@@ -54,11 +52,11 @@
         -   Artículos
         -   Interdisc
         -   =>Doctorado => Profesor y/o Investigador
-    -   enseñanza secundaria/primaria
+    -   Enseñanza secundaria
     -   Asociación/Fundación/ONG
         -   <https://john.onolan.org/what-it-means-to-be-non-profit/>
     
-    -   SL? => transversal
+
 
 ## Ejemplos destacables<a id="sec-1-2" name="sec-1-2"></a>
 
