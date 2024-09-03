@@ -1045,7 +1045,7 @@ Si usáis fuentes, que sean de medios conocidos, fact-checked o de artículos am
  - "Cocinillas": <http://www.eldiario.es/micromachismos/Cocinillas-entromete-tareas-domesticas-RAE_6_618448181.html>
  - Feminismo DRAE: <http://dle.rae.es/?id=HjuyHQ5>
 
-**** STEM (conferenciante ya)
+**** STEM 
  - [-] Why women dont study computer sci?
     - [ ] Why girls can't code, 1min: <https://www.youtube.com/watch?v=vXeF6Uot8pk>
     - [ ] Gráfica infor 1980: <http://www.joystiq.com/2014/10/20/what-happened-to-all-of-the-women-coders-in-1984/>
