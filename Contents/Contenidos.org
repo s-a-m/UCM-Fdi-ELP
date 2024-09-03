@@ -1,0 +1,1102 @@
+*** Primer día
+
+Intro primer día
+Qué es ELP
+Por qué ELP
+Evaluación
+Conferencias
+Hacer 10 grupos
+Decidir qué días cancelamos por las conferencias
+Cuestionario
+- ?: Lecturas obligatorias para flipped classroom y debatir en profundidad. Hablo de 1 artículo = 10 min. 2 artículos/semana? 2 artículos/2semanas? 2 artículos/mes? Nada?
+- Artículos con opiniones distintas
+- Más flipped classroom
+- Debates?
+
+*** (4 días) Profesión. Qué es ser informático. Opciones profesionales. Tipos de empleadores. Investigación. Emprendimiento.
+"* Profesión
+**** intro
+  - Qué es ser informático
+**** dinámica tipos y criterios
+ - Qué les interesa al elegir trabajo? Brainstorming. Típico:
+    - Salario
+    - Prefs/Gustos
+    - Estabilidad
+    - Explotación
+    - Ascensos
+    - Ubicación
+    - Puesto
+    - Creatividad
+    - Stress
+    - Prestigio/Cache
+    - Ambiente/compas
+    - Aprender
+
+      - Ramas
+        - [ ] Multinacional (típico SA)
+        - [ ] Pyme (típico SL)
+        - [ ] cooperativa
+        - [ ] Start-up
+          - [ ] Basics
+          - [ ] Internet, hay +++ aquí: <http://economia.elpais.com/economia/2012/09/21/actualidad/1348238953_210022.html>
+          - [ ] típico SA
+          - [ ] Social o no
+          - [ ] Incubadora (social, SL, ++modelos neg): <http://economia.elpais.com/economia/2012/12/14/actualidad/1355496740_444015.html>
+        - [ ] Autónomo/freelance
+        - [ ] funcionario AAPP
+        - [ ] Investigación/Enseñanza Univ
+          - [ ] Becas
+          - [ ] Artículos
+          - [ ] =>Doctorado => Profesor y/o Investigador
+        - [ ] enseñanza secundaria
+        - [ ] Asociación/Fundación/ONG
+
+ - [ ] Máster/Docto
+      - [ ] *Círculo docto* https://matt.might.net/articles/phd-school-in-pictures/
+      - [ ] Interdisc
+      - [ ] Artículos
+        - [ ] Ofrecer artículos cmg?
+    - [ ] Becario
+    - [ ] Fuera
+    - [ ] Montar algo
+
+
+- Ejercicio
+  - Individualmente: buscad tema q os interese en Google Scholar y en Google News
+    - Interdisciplinar
+    - etc
+  - Grupalmente, elegid uno (decisión), convenced a lxs otrxs o votad
+  - Poneos a buscar info sobre ese tema, un máster de especialización, una oferta de trabajo, más artículos de investigación para definirlo más, buscad profesores en la Facultad que pudieran estar interesadxs en echaros un cable
+- 
+- Ejerc
+  - compartid CV y feedback, consejos para mejorarlos
+- 
+**** Consejos
+   
+  - [ ] *Primer curro*
+  - [ ] *Nota media* para becas inv
+  - [ ] CV: algo que poner => portfolio
+
+  - [ ] ++foco en hard skills... soft skills!!
+  - [ ] Felicidad correlacionada con asociacionismo => CV
+  - [ ] CV: por qué eligieron a Fran en Google: badminton, baile, ONG, extranjero
+  - [ ] CV: github
+  - [ ] CV scan for AI: *http://jobscan.co*
+
+  - [ ] "Haced lo que os apasiona" ¿A cuántos les apasionan muchas cosas? X; ¿Cuántos no han encontrado aún lo que les apasiona? Y;
+    - [ ] X: *profundizad*, buscar solapamientos, si convergen varias cosas que os apasionan -> nicho!
+    - [ ] Y: *picotead*, utilizad los cursos online (p2pu, coursera, etc) para empezaros uno, si os mola seguid, si no cambiad (sin terminarlo), y así...
+      - [ ] CV: coursera, khan academy, udacity, udemy, moocs (stanford, mit...), oer, gsoc
+      - Rails Girls SoC: <http://railsgirlssummerofcode.org/>
+      - Gráfico 3 circles overlap pasión: <http://blog.ed.ted.com/2016/05/10/7-ideas-about-finding-the-work-you-were-meant-to-do/>
+  - [ ] @ Info becas a quien le interese
+  - [ ] Nonprofit vs Empresa;
+    - [ ] SL vs SA == ONG vs Fund; ONG vs ONGD
+    - [ ] <http://john.onolan.org/what-it-means-to-be-non-profit/>
+  - [ ] TED Body language before interview/presentation
+    - Power poses for interviews (minuto 10, dejar 30 segs, q se vean el resto q merece mil)
+    - <https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are/transcript#t-1243640>
+  - [ ] TED 6min, 3min... one of "success"  3min success: <http://www.ted.com/talks/richard_st_john_s_8_secrets_of_success.html>
+    - Ganar dinero si es útil... en "La Red Social" no pusieron ads...
+    - Disonancia cognitiva: no voy a poder => no lo quiero => conformismo
+    - Valores postmodernos: felicidad vs estabilidad => jump, bancos, consultoras, "el proyecto", aprender=>moverse, infojobs
+    
+  - [ ] Trabajar aquí para una entidad de aquí es una posibilidad. O trabajar fuera para una entidad fuera. O trabajar aquí para una entidad fuera (!). Un ej: <https://ghost.org/careers/> (y hay muchos otros, Red Hat, OpenStack...)
+
+  - [ ] Emprendedor consejos, software libre <http://unaaldia.hispasec.com/2012/09/mi-ultima-una-al-dia-gracias-y-hasta.html>
+**** Derechos laborales
+- [ ] Derechos laborales, contratos, horas extras, etc: vídeos de UGT de hace nada: <http://portal.ugt.org/campanas/conoce_tus_derechos.htm>
+- [ ] <http://www.javiergarzas.com/2011/11/ser-ingeniero-informatico-no-programandor.html >
+- [ ] TC avala vigilancia emails por empresa: <http://espana.barrapunto.com/es/13/10/10/000257.shtml>
+**** Ejemplos
+  - [ ] *Valve Handbook* <http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf>
+  - [ ] Atlassian Values <https://www.atlassian.com/company/values>
+  - [ ] Cárnicas: <https://www.elconfidencial.com/tecnologia/2017-08-05/consultoria-tecnologica-lexnet-carnicas-alten-sermicro-iecisa-digitex_1425318/>
+
+**** Responsabilidad
+- [ ] Código ético ACM: <http://www.sc.ehu.es/jiwdocoj/codeacm.htm >
+- [ ] Código de conducta inclusivo: <http://contributor-covenant.org/>
+  - <http://contributor-covenant.org/version/1/4/>
+  - De obligado cumplimiento, no opcional
+  - A raíz de comentarios homófobos se adopta más: <http://geekfeminism.wikia.com/wiki/OpalGate_incident>
+
+- Responsabilidad de desarrolladores:
+desarrollo acrítico que recomienda medicinas:
+<https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.41xn1ludc >
+
+- Compromiso de no desarrollar determinadas cosas:
+<http://neveragain.tech/>
+
+- Carta para auto-limitar el desarrollo de armas autónomas ("robot asesinos")
+distopía viable con autonomous weapons: <https://www.youtube.com/watch?v=HipTO_7mUOw>
+<http://www.elmundo.es/ciencia/2015/07/28/55b77746268e3e526a8b4586.html>
+<http://futureoflife.org/open-letter-autonomous-weapons/ >
+*** (3.5 días + 1) Derechos de autor. Copyright. Licencias. Software libre. Hardware libre.
+- [ ] Propiedad vs Propiedad Intelectual
+  - [ ] Marcas, Patentes, Copyright
+- [ ] Copyright:
+  - [ ] libro
+  - [ ] dibujo en papel
+  - [ ] La manzana te la doy... La idea... Coste de copia 0...
+- [ ] Algoritmos matemáticos (dominio público) vs obras creativas (copyright por defecto)
+- [ ] subtítulos, letras de canciones...
+
+- Convenio de Berna
+- 
+- Lectura capítulo Barahona en Copyleft Manual de uso: *Flipped classroom -> Ejerc grupal ++tiempo* 
+  - https://traficantes.net/sites/default/files/pdfs/Manual%20Copyleft-TdS.pdf
+  - [ ] RMS historia impresora
+  - [ ] GNU+Linux
+  - [ ] Las 4 libertades del software
+  - [ ] Licencias: GPL, LGPL, BSD
+
+- [ ] FSF vs OSI
+  - seguridad, comunidad, monopolios, competencia proveedores serv, transp
+
+- [ ] FLOSS won
+  - *Github & StackOverflow*
+  - Who is contributing: https://www.infoworld.com/article/3253948/who-really-contributes-to-open-source.html
+    - 2021: https://statisticsanddata.org/data/top-companies-contributing-to-open-source-2011-2020/
+  - 
+  - Microsoft Loves Linux <https://blogs.technet.microsoft.com/windowsserver/2015/05/06/microsoft-loves-linux/>
+    - Microsoft joins Linux Foundation as Platinum Member: <https://www.theverge.com/2016/11/16/13651940/microsoft-linux-foundation-membership>
+    - Azure
+  - Linux in *Kindle*, TVs, cars from *Tesla, Toyota, Ford*
+  - 80% of kernel contributions from companies <https://www.infoworld.com/article/2610207/open-source-software/who-writes-linux--corporations--more-than-ever.html>
+    - 2021: https://news.itsfoss.com/huawei-kernel-contribution/
+
+- [ ] Github is the new default
+  - [ ] 70% developers in free/open source: <http://www.techrepublic.com/article/why-every-developer-is-an-open-source-developer-these-days/>
+- [ ] Licencias fácil: <https://tldrlegal.com/>
+- [ ] => formas artificiales de limitar las 4 libertades: DRM
+- [ ] Qué hace *Apple*: Mac Os X (BSD Unix), iOS *Darwin*, basados en SL
+- [-] Licencias *Creative Commons* x6
+  - [ ] 3 capas <https://es.wikipedia.org/wiki/Cracovia>
+  - [ ] <https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES>
+  - [ ] <https://creativecommons.org/choose/>
+
+- [ ] *Ejercicio grupal*:
+  - 1º solos (5 min): En primer lugar, elegid un proyecto software en el que hayáis participado o estéis participando: vuestro TFG, algo que hayáis desarrollado, una app, una práctica de la que estéis orgullosxs de otro año que queráis subir a Github... algo real que podríais subir. Sólo si no hay nada real, algo que queráis hacer. Cuando tengáis software elegido, pensad qué licencia queréis ponerle a ese software, y por qué. Revisad las que hemos visto, comparad con otros software libre famosos si queréis, relacionados o no. Podéis también ver la licencia de librerías que uséis por si os condicionan. 
+  - 2º compartidlo en grupo, discutid pros y contras de licencias elegidas, y razones para elegir ésas y no otras. Apuntad dudas que os surjan. 
+
+- [ ] Forks
+  - [ ] Cambios de licencia
+  - [ ] LibreOffice/Oracle
+  - [ ] amenaza de Fork garantiza consenso
+
+- [ ] Solo para terceros
+- [ ] Github != SL -> Ejemplo, Wickr chat app, Github but for personal/academic use https://github.com/WickrInc/wickr-crypto-c
+- [ ] *Google Images* permite buscar imágenes/X por licencia
+  - pixabay.com: CC 0
+  - wikimedia commons
+- 
+- [ ] Cómo licenciar
+  - https://github.com/apache/httpd
+  - https://github.com/chromium/chromium
+  - https://github.com/mozilla-mobile/fenix
+- [ ] Descentralizado: no hay entidad central a la que deba pedir permiso para usar una licencia, o pagar, o que tenga que verificar nada... todo es descentralizado.
+  - [ ] Gratis y rápido => no hay registro central de autoría/patentes
+- [ ] Protegid@s por la misma ley de Copyright! => Con la misma dureza! => Hack!
+- [ ] Ana, It's fun! <https://www.slideshare.net/AnaMaraMartnezGmez/getting-started-as-an-open-source-contributor-81504610?ref=<https://events.opensuse.org/conference/summitasia17/program/proposal/1586>
+- [ ] Trabajos ELP: lic. libre
+- [ ] Google Summer of Code
+- [ ] LibreLab UCM: asociación sw libre Fdi@UCM
+
+- [ ] *Modelos de negocio*
+  - [ ] <https://opensource.guide/>
+  - [ ] <https://github.com/nayafia/lemonade-stand>
+
+- [ ] *Ejercicio*: *consensuad* modelo de neg. a usar si tuviérais que hacer software en vuestro grupo.
+
+*** (inc) Cultura libre. Procomún. Copia privada. P2P. Patentes.
+  - [ ] Anuncio IBM Linux https://www.youtube.com/watch?v=F5WLEu4UIds
+  - [ ] How Linux is built <http://www.amara.org/es/videos/sDW3IfIAZLwV/info/how-linux-is-built/>
+    - [ ] Comunidad, contribuciones, commits
+    - [ ] trabajar en abierto
+  - *Roles:* Cómo funciona una comunidad
+  - [ ] Openness: what is it, opened, opensci, opengov... (by Shuttleworth Foundation) <https://vimeo.com/54762523>
+  - [ ] Openhub (Ohloh)
+    - [ ] <https://www.openhub.net/p/linux>
+    - [ ] <https://www.openhub.net/p/Telegram>
+    - [ ] https://github.com/torvalds/linux
+    - [ ] <https://github.com/DrKLO/Telegram>
+    - [ ] <https://github.com/DrKLO/Telegram/issues>
+    - [ ] Katrina Owen @Github https://github.com/kytrinyx
+      - Torvalds https://github.com/torvalds
+    - [ ] https://www.theguardian.com/technology/2016/feb/12/women-considered-better-coders-hide-gender-github
+
+
+
+Comunidades / Procomún:
+- [ ] Cultura libre
+- [ ] Cuádruple hélice en vez de procomún?
+  - [ ] Procomún
+    - [ ] ind aislado vs comunidad; tragedia bienes comunes vs org bienes comunes
+    - [ ] Público-Privado-Procomún;
+    - [ ] Recursos, Protocolos/Reglas, Comunidad
+    - [ ] <http://images.eldiario.es/stephane_m-_grueso/entornos-procomun-Carla-Boserman_EDIIMA20121120_0407_5.jpg>
+    - [ ] Edad media: cercamiento del procomún => público
+
+
+    - [ ] Hacer un Wikipedia article:
+      - Cómo funciona
+      - [ ] <https://www.youtube.com/watch?v=1CwiZIsaM7s&feature=youtu.be>
+      - [ ] *Ej. grupal*: buscad artículos en Wikipedia, relacionados con ELP, qué hay en inglés y castellano, comparar. Buscar cosas que puedan ser mejoradas. 
+
+    - [ ] Nuevo paradigma: *mercader* en la sociedad feudal
+    - [ ] Benkler TED 2005, new model of production (old examples: Apache, Wiki, P2P): <http://www.ted.com/talks/yochai_benkler_on_the_new_open_source_economics#t-747853>
+    - [ ] *CBPP doc UAB*
+      - [ ] alternativas por campo <= Mayo <= seleccionar algunas para mostrar 
+    - [ ] Collaborative consumption, commons-based peer production
+          <http://www.consumocolaborativo.com/directorio-de-proyectos/>
+    - [ ] Libro bibliografía: The Wealth of Networks!
+    - [ ] Open Data
+      - [ ] Usos del Open Data para monitorizar élites:  <http://www.eldiario.es/turing/big_data/bid_data-datos_masivos-inteligencia_colectiva-datos-visualizacion_de_datos-redes-transparencia_0_233077566.html>
+      - [ ] DB con API: <http://littlesis.org/>
+    
+
+    - *Ejercicio grupal:* Comunidades con procomún que conozcáis/encontréis: cómo funcionan, cuál es el procomúm, la comunidad... Identificad 5 claramente diferentes y posteadlas. Si se ha dicho ya, no podéis postearla. 
+*** (0 días) Introducción a la Ética y Legislación
+  - [ ] Ética
+    - [ ] valores => postmodernos vs ética trabajo/de nuestros padres
+    - [ ] => "decidme alguien que conozcáis muy bien y que consideréis mala persona" 
+      - [ ] => todos "buenos" desde su propio punto de vista
+    - [ ] => ejemplo 3 empresas *alfombras* (y *luego empresa software*) compitiendo; dos violan ddhh, ¿la tuya? =>
+      - roles en puestos de trabajo,
+      - roles en mercado,
+      - roles con amig@s...
+
+  - [ ] Limitaciones a mi libertad
+    - [ ] Naturaleza
+    - [ ] Ley: impuesta por represión física por Estado
+    - [ ] Normas sociales/culturales
+    - [ ] Ciencia/Invenciones/Tecnología: es política: "Tienen política los artefactos?", Langdon Winner
+      - Puentes de Moses, Nuclear vs Solar
+    - [ ] Ciberespacio:
+      - [ ] las reglas del mundo, la naturaleza, es definida por protocolos y código
+      - [ ] Code is Law (Lessig)
+    - [ ] Ejemplo: algorithms learning bias, even in worse amount than reality! (search for CEO example) (search for "professional hairstyle for work" vs "unprofessional ~" -> white vs black!! -> only women!!)
+      - Search "grandes divulgadoras"-> corrige en búsqueda normal, y fotos horror: <https://encrypted.google.com/search?q=grandes+divulgadoras>
+      - <http://www.nytimes.com/2015/07/10/upshot/when-algorithms-discriminate.html>
+      - [ ] More details on how Big Data is inherently unfair:
+        - <https://medium.com/@mrtz/how-big-data-is-unfair-9aa544d739de#.82xf43eri>
+      - [ ] Tay bot, Microsoft, from adorable to full nazi in one day
+  - [ ] Ludismo?
+  - [ ] Autonomía al conectarse a la red (ISPs, etc) -> Guifi (pedido en GII-C)
+  - [ ] Fantasía vs Ciencia-Ficción => pensar cómo será el futuro desde el presente 
+  - [ ] Distopías y utopías => archivo de futuro
+  - [ ] Distopías. 1984 => Fb: (Big Brother+Ministries) <http://www.geekculture.com/joyoftech/joyarchives/1330.html> (Neolengua): <http://29.media.tumblr.com/tumblr_loa8tfrg3t1qz6f9yo1_500.jpg>
+*** (4 días) Privacidad. Redes sociales. GDPR. Criptografía. Vigilancia. Filtraciones
+
+- [ ] *Ejercicio grupal*: Investigar http://j.mp/elp-ligar (https://datadating.tacticaltech.org/auction) con datos de apps para ligar,
+  - ¿De dónde han salido esos perfiles?
+  - ¿Qué cosas os han sorprendido más?
+  - ¿Podéis buscar si Tinder hace lo mismo?
+  - ¿Qué implicaciones podría tener?
+  - https://datadating.tacticaltech.org/auction
+
+
+- [ ] People don't care about security at home? -> still important -> privacy the same
+- [ ] Data Microsoft, Linkedin, Amazon... https://dri.es/microsoft-buys-linkedin-the-value-of-data
+  - [ ] Warren quiere break up Big Tech: https://www.youtube.com/watch?v=i0eCHTErAYE
+  - [ ] GDPR? Fb amenaza con irse de Europa https://www.muycomputerpro.com/2020/09/21/facebook-afirma-que-no-puede-cumplir-con-la-gdpr
+
+- Facebook
+  - [ ] Evolution of privacy settings:
+     <http://mattmckeon.com/facebook-privacy/>
+  - [ ] OUTDATED: <http://www.nytimes.com/interactive/2010/05/12/business/facebook-privacy.html>
+  - [ ] Imports phone numbers:  <http://www.itworld.com/it-managementstrategy/192399/facebooks-phonebook-fiasco>
+  - [ ] Shadow profiles of non-users: <http://yro.slashdot.org/story/11/10/18/1429223/facebook-is-building-shadow-profiles-of-non-users?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Slashdot%2Fslashdot+%28Slashdot%29>
+  - [ ] It tracks you even when you are not in Fb and you are logged-out and dont click in the "Like": it knows you passed...
+<http://yro.slashdot.org/story/11/09/25/2131205/facebook-cookies-track-users-even-after-logging-out>
+    => Cookies
+    => (ext FF)
+  - Scaneado de conversaciones "delictivas": <http://barrapunto.com/article.pl?sid=12/07/14/0028220>
+  - Relacionado: Apple y pornografía: <http://barrapunto.com/article.pl?sid=12/02/04/1644226&threshold=-1>
+  - [ ] !! Manipulación: Zeynep, brutal, entera: <https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-1363310>
+  - [ ] Facebook *manipula* directamente el filtrado (quitando conservadores, metiendo cosas) https://www.cbsnews.com/news/report-trending-on-facebook-not-what-you-think-curators-manipulate-news/
+  - [ ] Facebook: sangre sí, tetas no <http://www.eldiario.es/caballodenietzsche/Facebook-politica-permisiva-maltrato-animal_6_311878837.html>
+ 
+
+
+
+
+ - [ ] Fb knows everyone u ever met (2 paragraphs "A one-night stand...") <https://gizmodo.com/how-facebook-figures-out-everyone-youve-ever-met-1819822691>
+ - [-] Deduce tendencia política, orientación sexual, clase econ, sit familiar, si tienes iphone o un Mercedes... y reconoce caras 97%: <http://www.eldiario.es/cultura/series/puede-pasar-miles-camaras-vigilan_0_563444648.html>
+
+   - [ ] Facebook vs whistleblower 2021: miente mil, ignora 95% hate speech, ignora non-US, etc (NGO report): https://rankingdigitalrights.org/2021/10/14/cross-checking-facebook-frances-haugen/
+     - [ ] Nuevas relevaciones 2021 (perjudica y lo sabe, pero sigue... causa más enfado, causa malestar en teens): https://www.wsj.com/articles/the-facebook-files-11631713039
+
+   - [ ] Twitter: sus algoritmos benefician a la derecha y no saben pq https://actualidad.rt.com/actualidad/408007-twitter-admitir-algoritmos-beneficiar-derecha
+  
+   - *Ejerc*: Consecuencias Fb, temas para 12 grupos:
+     1. ¿Poder de Zuckerberg como persona? ¿Peso en Fb? ¿Y si se presenta a las elecciones de EEUU?
+     2. ToS: ¿Qué puede hacer con nuestros datos? ¿Compartirlos? Tosdr.org
+     3. Fb y GDPR: Resistencias de Fb, cómo debe cambiar Fb por GDPR
+     4. 2.7B monthly/active users: ¿Cómo gestiona bullying, ofensas, copyright, pornografía infantil? ¿IA vale?
+     5. Real Name Policy. ¿Por qué Fb lo mantiene? ¿A quiénes afecta y de qué formas? 
+     6. Fb como identidad/ID online global. Fb Connect. Implicaciones de usar Fb como identidad única, en otros servicios, o incluso con el Estado como si fuera un DNI digital. 
+     7. El futuro de Fb: la criptomoneda Libra. Implicaciones.
+     8. El futuro de Fb: ¿Qué startups está comprando Fb y por qué? 
+     9. Fb como espacio "neutral" para comunicarse: ¿qué pasa cuando lo usamos para hablar? ¿cómo se usa lo que escribimos? ¿pueden censurarnos? ¿qué ley se nos aplica?
+     10. Escándalos y críticas a Fb: ¿cuáles os parecen que son los más importante y por qué?
+     11. Al comparar Fb, Google y Apple, ¿cuál es la actitud de cada uno hacia sus usuarios? ¿quién los protege mejor y por qué?
+     12. Fb "Free Basics": un proyecto de Fb para dar internet gratuito al Sur Global. ¿Qué problemas tiene?
+
+
+¿Nuestra protección de datos sensibles? (LOPD/GDPR) (salud, ideología, creencias, sexualidad, antecedentes...)
+
+  - [ ] Zuckeberg political career, ordered report for running for president
+  - [ ] Fb "AI" relies on thousands of workers
+  - [ ] Fb dio ++datos tuyos a compañías teléfonos hasta 2018: https://www.eldiario.es/tecnologia/Facebook-abrio-datos-fabricantes-smartphones_0_778672324.html
+
+  - [ ] Lo que Google guarda de nuestra localización (requiere login gmail):
+<https://myactivity.google.com/more-activity>
+<https://maps.google.es/locationhistory/b/0/dashboard>
+
+
+- [ ] Un 3º: "Mind Reading?" => "Your entire life is online"
+  <http://www.youtube.com/watch?v=PZL1cHGPUxI> (ES)
+  <http://www.youtube.com/embed/F7pYHN9iC9I?rel=0> (EN)
+- [ ] Un 3º: "Girls around me"
+  - <http://www.cultofmac.com/157641/this-creepy-app-isnt-just-stalking-women-without-their-knowledge-its-a-wake-up-call-about-facebook-privacy/>
+
+
+Soluciones
+
+- [ ] Terms of Agreement? => Prob, cómo solucionarlo?
+  - [ ] Comic ToS: <http://www.gocomics.com/pearlsbeforeswine/2015/12/20>
+  - [ ] Privacy Icons
+  - [ ] <http://tosdr.org>
+- [ ] <https://www.eff.org/privacybadger>
+- [ ] https://panopticlick.eff.org
+
+
+
+Hay alternativas? 3 recopilatorios muy currados, prácticos y fáciles:
+- [ ] https://www.privacytools.io/
+
+
+Retos legales jurisdicciones
+
+privacidad - transparencia
+
+Gobiernos
+- [ ] *Cambridge Analytica*:
+  - *trailer* "The Great Hack": https://www.youtube.com/watch?v=iX8GxLP1FHo
+  - Presentación?
+
+
+- [ ] ¿Qué datos tiene la policía de nosotrxs?
+  - [ ] Alquiler? Tlf? Coche? Abono? multa? <http://elpais.com/diario/1994/10/09/espana/781657209_850215.html>
+  - Viaje fuera de la UE? https://www.eldiario.es/politica/Policia-almacena-personales-pasajeros-Ley_0_446905754.html
+
+- [ ] PRISM: NSA tiene acceso a Fb, G, MS, etc
+<http://www.youtube.com/watch?v=GoM4jIZbTtQ#t=104 >
+ - [ ] Slides Wikipedia (!) <http://en.wikipedia.org/wiki/PRISM_%28surveillance_program%29>
+ - [ ] Slides: PRISM+Cables: <http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents>
+ - [ ] Fragmento peli Snowden sobre buscador NSA, o si no en trailer: <https://www.youtube.com/watch?v=kJRuqxkDvy4>
+ - [ ] Video muy bueno (aunque no escondas nada) <http://www.guardian.co.uk/world/video/2013/jun/09/nsa-whistleblower-edward-snowden-interview-video>
+ - [ ] Espionaje británico: pinchan fibra óptica, millones de datos <http://internacional.elpais.com/internacional/2013/06/21/actualidad/1371836643_740842.html>
+
+ - [ ] *Assange: + grande -> - privacidad, +transparencia*
+   - [ ] Wikileaks
+ - [ ] TED: Why Privacy Matters <http://www.ted.com/talks/glenn_greenwald_why_privacy_matters>
+
+ - [ ] Snowden rec sw: https://medium.com/shadowsafe/online-security-d4490373171
+
+ - [ ] ¿Alguien tiene móvil chino? (2016) <http://www.eldiario.es/cultura/tecnologia/software-moviles-informacion-China-analistas_0_580943026.html>
+
+ - [ ] Buenísima TED 9min en castellano, de experta en privacidad, espionaje masivo, tjtas de puntos, red social comparado con Stasi: <http://www.eldiario.es/escolar/Vivimos-casas-cristal_6_434366568.html>
+ - [ ] PDF resumen muy muy bueno, con lista de herr alt por tipo (2015): <http://espacio.fundaciontelefonica.com/wp-content/uploads/descargas/1426255189-ANONIMIZATE%20270X350.indd.pdf>
+
+ - Big Data + face recognition... con una cara, sacan toda tu info. Muy buena charla (2013!): <http://www.ted.com/talks/alessandro_acquisti_why_privacy_matters#t-323923>
+ - [ ] (Cuchicheo) Whatsapp, fotos chica menor desnuda => Digitalización: copia de coste cero, no hay "persona tonta", machismo implícito, normalización entre jóvenes, importancia privacidad
+   <http://sociedad.elpais.com/sociedad/2013/06/22/actualidad/1371906804_353717.html>
+   - [ ] China (regular)
+     - [ ] The West got it all wrong: https://www.wired.com/story/china-social-credit-score-system/
+     - [ ] Infografía China: <https://twitter.com/EkonMolina/status/923251495948169221>
+     - [ ] China introduced "Sesame Credit" - Social ranking system for how patriotic citizens are with rewards, tiers and maybe punishments. Mandatory by 2020 
+<https://www.reddit.com/r/news/comments/3x3xk3/china_introduced_sesame_credit_social_ranking/>
+<https://www.youtube.com/watch?time_continue=1&v=lHcTKWiZ8sI>
+- [ ] Designed for engagement / *addiction*: <http://www.cbc.ca/news/technology/marketplace-phones-1.4384876>
+
+- [ ] Ejerc: Estar 24h sin internet?
+
+- Uber usando su plataforma para instigar usuarios contra ley (dando info sesgada): https://techcrunch.com/2015/07/16/uber-launches-de-blasios-uber-feature-in-nyc-with-25-minute-wait-times/
+- Avast free antivirus? monitorea y vende tus datos: https://www.vice.com/en_us/article/qjdkq7/avast-antivirus-sells-user-browsing-data-investigation
+- Airbnb 1984: escanea tu actividad online para saber quién eres, y censurar los colectivos sospechosos (drugs/alcohol, sex workers, "negative language" wtf): https://www.engadget.com/2020/01/17/your-online-activity-effectively-social-credit-score-airbnb/
+- Presentaciones
+  - Y sobre ejemplos, es típico que a nadie le gusta la idea de que, al buscar un trabajo, una empresa pueda saber de tus hábitos y usarlo para contratarte o no hacerlo. Y un ejemplo que da muy mal rollo es "Girls Around Me":  http://www.cultofmac.com/157641/this-creepy-app-isnt-just-stalking-women-without-their-knowledge-its-a-wake-up-call-about-facebook-privacy/
+
+*** (2) Delitos. Implicaciones tech emergentes (Blockch, IA). Sistemas distribuidos. Bitcoin. Blockchain
+
+
+- Mozilla's IA Intersections Database (IA impact+social justice): https://aidatabase.mozilla.org/
+- Eticas Foundation: OASI (Observatory of Algorithms with Social Impact): https://eticasfoundation.org/oasi/
+
+
+- MIoT: Bitcoin y Ethereum, y luego Open Data
+
+- [ ] Bitcoin
+  - [ ] (OffTopic) Economía: trueque, emisión del dinero (sextercios), bancos (templarios), papel moneda, impuestos, patrón oro (bretton woods), OPEP, petrodólar, ruptura patrón oro (70s), Irak/Irán.
+  - [ ] Bitcoin Currency
+
+  - [ ] Blockchain
+    - Nice 15min tutorial/demo: <https://anders.com/blockchain/>
+  - [ ] Investment: https://www.crowdfundinsider.com/2019/08/150513-research-since-2014-32-3-billion-has-gone-into-blockchain-investments-with-record-amount-in-2018-during-first-half-of-2019-blockchain-deals-have-dropped/
+  - [ ] Ethereum
+    - [ ] Mi presentación:
+      - https://docs.google.com/presentation/d/16upiaapPm9cPn2JnGgWE2W7c5vV0KZTs2t4O1D-qd-I/edit#slide=id.gf8b94478c_0_570
+    - [ ] Smart contracts Persona-Persona, Persona-Sw, Sw-Sw
+    - [ ] Ethereum Vitalik: https://www.youtube.com/watch?v=TDGq4aeevgY
+    - [ ] vídeo flipado Aragon DAOs/gobernanza: https://www.youtube.com/watch?v=AqjIWmiAidw
+      - Aragon: Spanish
+ 
+  - Sistemas centralizados? los veremos...
+
+  - ¿Presentaciones?
+    - DAOs: Ejs, Aragon...
+    - Pros vs Cons
+      - O crítica?
+
+  - *Actividad Grupal*: si las DAOs se extienden,
+
+  - Escenarios futuros cercanos, que reflejen implicaciones positivas y/o negativas y para quién... Centráos en un campo, por ej Finanzas, videojuegos, IoT, coches autónomos, empresas pequeñas, multinacionales, movimientos sociales, ciudadanía, crimen organizado, estados
+
+  - 
+*** (1-2 días) Derechos digitales. Libertad de expresión. Comunidades online. Anonimato. Censura. Transparencia. Neutralidad de red.
+
+- Censura existe, la preg es límites (Clase: votar, a favor, gris, o en contra de censura)
+  - DMCA
+  - Pornografía infantil
+  - ¿Delitos de odio? (privilegios)
+  - Legalidad, e.g. nazismo, exaltación terrorismo...
+- Efecto Streisand
+  - Otra forma: ruido -> fake news, mierda, para no poder diferenciar
+  - 
+
+
+Preguntar: Dónde ves noticias?
+Check boxes :
+- No me interesan
+- redes sociales (especificar)
+- agregador noticias (g news, Flipboard...) (especificar)
+- Un periódico online (especificar)
+- Un periódico en papel (especificar)
+- Otro (especificar)
+Si es posible, especifica tu respuesta
+
+
+
+- Postmodernismo *pizarra, 2 lados*
+  - crisis de confianza en las grandes instituciones
+- [ ] *Fake news*, veracidad
+  - Ciencia y Fake news: https://twitter.com/AstroKatie/status/1352264489467580417?s=19
+  - 
+  - Wikipedia vs Twitter
+  - Medios de comunicación *pizarra, 2 lados*
+    - pto de vista, pequeñas mentiras, "ética periodística"
+      - "*cámaras de eco*": leemos sólo los argumentos/ptos de vista que refuerzan nuestra visión
+        - aun así, veracidad alta, hechos claros, ciencia
+      - E prensa *sensacionalista*, minoritaria
+      - -> *crisis*, periódicos online
+      - -> si no son sostenibles, *independientes* en peligro <- + *polarización* + *reduccionismo* + *propaganda*
+      - -> el "click" es lo que da dinero -> *clickbait* -> +sensacionalismo
+      - -> herramientas para *fines políticos* <- no se necesita sostenibilidad
+        - + injerencia de 3os ("Rusia")
+
+
+
+    - nuevos medios, grandes mentiras, "*todo vale*"
+      - "las *vacunas* causan autismo"
+      - "lxs *inmigrantes* causas de todos los males"
+      - Social Media -> shit
+        - https://www.politifact.com/facebook-fact-checks/
+      - Acusar de "fake news" al otro
+      - Cdo trae "scientific facts", contestar con "*alternative facts*" -> 1984, doble-thinking
+        - Portavoz de *Trump*
+          - attendance numbers of Donald Trump's inauguration as President
+          - [[https://www.politifact.com/personalities/][Truth-o-meter de Trump peor que nunca]]
+      - "[[https://es.wikipedia.org/wiki/Posverdad][Posverdad]]", sesgos falsos: "[[https://es.wikipedia.org/wiki/Falso_equilibrio][Falso equilibrio]]"
+      - The Economist identificó ++ en USA, UK, Corea del Norte, India, Rusia, Alemania, Austria...
+        - [[https://en.wikipedia.org/wiki/Post-truth_politics#Examples][Lista Wikipedia]]
+        - [[https://web.archive.org/web/20180515185647im_/https://www.economist.com/sites/default/files/imagecache/1200-width/images/print-edition/20160910_FBC537.png][Conspiranoia apoyos de Romney vs Trump]]
+        - [[https://web.archive.org/web/20180515185648im_/https://www.economist.com/sites/default/files/imagecache/1200-width/images/print-edition/20160910_FBC512.png][Creen que crimen sube]]
+    - Soluciones?
+      - Fact-checkers
+      - +científicos
+      - +? qué se os ocurre?
+
+- [ ] Los 11 principios de la *propaganda* (Goebbels) https://confilegal.com/20180826-los-11-principios-de-la-propaganda-nazi-hoy-vigentes-en-las-fake-news/
+  - "Si una mentira se repite lo suficiente, acaba por convertirse en verdad" -> Fake news
+  - Falacias que se estudian en grupos de debate
+  - *Ejerc Grupo con acta:* sacad declaraciones reales que usen estos principios
+  - CF: https://www.elsaltodiario.com/ciencia-ficcion/y-si-la-ciencia-ficcion-nos-salvara-del-fascismo
+
+
+Ejercicio nuevo por probar: probar juego https://app.crankyuncle.info y redactar algo con fake news como https://twitter.com/jswatz/status/1631760748316614662?s=19?
+
+
+Ejercicio grupal:
+- Grupos 1-3: Maldita https://maldita.es/
+- Grupos 4-6: Newtral https://www.newtral.es
+- Grupos 7-9: Google Factchecker https://toolbox.google.com/factcheck/explorer
+- Grupos impares: Seleccionad temas impactantes/graves/sorprendentes que hayan llegado lejos y luego han resultado falsos al hacer fact-checking. 2+ noticias de izquierdas, 2+ de derechas, 2+ no necesariamente alineadas. Extraed conclusiones de cómo está el panorama, temas comunes donde se miente, sesgos comunes, etc. 
+- Grupos pares: Centráos en usos de los principios de la propaganda en la política nacional. Al menos 6 ejemplos, de 6 principios distintos, y de diversas ideologías y partidos. Extraed conclusiones de uso de la propaganda, quién lo usa más y de qué forma. 
+- 
+
+
+Hay censura, hay libertad de expresión
+Hay pseudo-anonimato
+
+- [ ] Presentations
+  - Social Media democracy or not?
+  - da voz vs fake news
+  - más voces vs echo chambers
+  - Anonymous vs Anonymous
+  - gamergate
+    - Anonymous
+    - doxxing
+  - bullying
+  - trolls
+  - Snowden/Wikileaks
+  - elections
+    - uso político bots, algoritmos, difumina más: https://www.europapress.es/portaltic/sector/noticia-aumentan-paises-realizan-campanas-manipulacion-opinion-publica-redes-sociales-estudio-20190927123339.html
+      - China, Rusia -> pq? +polarización, +mentiras
+    - bots
+  - Minorías vs sesgos AI
+  - AI: Tay tweets, "full nazi"
+  - Data: leaks, <http://haveibeenpwned.com>
+  - Economía Colaborativs vs Monopolios
+   
+
+*** (0 días) Delitos informáticos. Ética hacker. Uso responsable de la tecnología.
+
+--------------------- Delitos/Seguridad lo pasamos a otra asign:
+- [ ] What's internet? => submarine cable photo <https://www.telegeography.com/assets/website/images/maps/submarine-cable-map-2009/submarine-cable-map-2009-x.jpg>
+- [ ] HTTPS => HTTPS Everywhere
+- [ ] EFF: Hotmail desactiva *HTTPS* en primavera árabe (2011) <https://www.eff.org/deeplinks/2011/03/microsoft-shuts-https-hotmail-over-dozen-countries>
+- [ ] China censura, y HTTPS, y DDoS a Github: <https://www.techdirt.com/articles/20150331/07002030498/chinas-great-firewall-turned-around-why-china-wants-to-censor-global-internet.shtml>
+- [ ] TSA keys:
+  - <http://jasongriffey.net/wp/2015/10/19/tsa-master-keys-threat-models-and-encryption/>
+  - <http://www.neogaf.com/forum/showpost.php?p=178193507&postcount=61>
+  - [ ] UK lo rebajó al aprobarlo, aplicándolo solo a ISPsall
+- [ ] Apple FaceID, datos expresiones cara mientras en mov: <http://www.eldiario.es/cultura/tecnologia/datos-accesibles-todas-empresas-Apple_0_704129997.html>
+- [ ] ++Empresas usando AI for interviews: https://www.eldiario.es/tecnologia/Varias-multinacionales-inteligencia-psicologicamente-entrevistas_0_948405691.html 
+- [ ] UK scanned faces 100K people in music festival w/o consent: <https://gizmodo.com/uk-police-scanned-the-faces-of-100-000-people-at-a-musi-1711767057>
+
+- [ ] Present VPN
+- [ ] Metadatos: we kill based on metadata
+- [ ] LOPD 
+- [ ] Quién ha creado y subido material a la red? vídeos? fotos? textos? gdocs? Padre consumidor de info
+  - paradigma
+- [ ] CMS => Blogosfera
+- [ ] buscar "ikea"/"movistar" y en la misma página, "ikeahackers"/"movilzona" u otrxs
+- [ ] Google
+- [ ] <http://internetnoseraotratv.net/es (dibujo Brieva)>
+  - <http://artiumtb.neokinok.tv/wp-content/uploads/2010/11/posterbolases.jpg>
+- [ ] Internet.org of Fb is that... app with 4 apps for Zambia, 38 webs for India... (& Fb without imgs and vid)
+- [ ] Impuesto Hungría: 0,5€/GB: <http://ciberderechos.barrapunto.com/article.pl?sid=14/10/27/2252208>
+- [ ] Political groups deleted (Grupo Fb pone que grupos de protesta se coordinaban por Fb): <https://anticutsspace.wordpress.com/2011/04/29/political-facebook-groups-deleted-on-royal-wedding-day/>
+    <http://www.guardian.co.uk/technology/2011/apr/29/facebook-accused-removing-activists-pages?CMP=twt_gu>
+- [ ] Story Israel: <http://yro.slashdot.org/story/11/07/10/0438252/Facebook-Helps-Israel-Blacklist-Air-Travellers>
+
+-------------------- Delitos/Seguridad lo pasamos a otra asign:
+
+- [ ] Tor
+
+ - [ ] Criptografía, 6x presentaciones
+   - [ ] HTTPS
+   - [ ] TOR browsing
+   - [ ] OTR chat / Cryptocat / Telegram
+   - [ ] Truecrypt for files
+   - [ ] GPG emails
+   - [ ] SSH?
+   - [ ] Esteganografía
+- [ ] Black Mirror
+- 2 Paradigmas:
+  - [ ] SOPA <https://es.wikipedia.org/wiki/Stop_Online_Piracy_Act>
+  - [ ] La cena del miedo: 2 paradigmas
+    - <https://acuarelalibros.blogspot.com.es/2011/01/la-cena-del-miedo-mi-reunion-con-la.html>
+  - [ ] "Declaración de Independencia del Ciberespacio" <http://biblioweb.sindominio.net/telematica/manif_barlow.html>
+
+
+
+
+  - [ ] dimensión de la red: Tw/1seg, Yout/1seg, Em/1seg, G/1seg, etc <http://www.internetlivestats.com/one-second/>
+  - [ ] Everything is cables and computers (servers)
+  - [ ] IETF: "We reject kings, presidents and voting. We believe in <Rough consensus, and running code>"
+  - Telefonica (server) sees everything: DSL & mobile
+  - We all have an identity number: the IP
+    - Location (neighbourhood)
+    - Crack into your computer
+
+  - Mobiles: similar, closed
+    - [ ] Calls & SMS never secure
+    - [ ] Records of sequence of all your SMS (in Lb) (it's just text!)
+    - [ ] Records of who you call when
+    - Sniffing in specific activists/moments
+    - Where are you? 24/7, very accurate
+
+  - HTTPS matters
+    - [ ] YA ANTES: Story: <https://www.eff.org/deeplinks/2011/03/microsoft-shuts-https-hotmail-over-dozen-countries>
+    - Account Password: Ogero cannot know
+
+  - Chat con HTTPS? Quién puede leer la conver? (Google)
+
+  - [ ] Virus? Cómo de frecuentes? (Si no actualizas a diario...)
+  - [ ] Spyware?
+
+  - [ ] Frecuencia ataques en la red? DDOS, etc? Cada segundo! 
+    - Mapa mundial: (no funciona) <http://map.ipviking.com/>
+
+  - [ ] Ingeniería Social: el mayor punto débil? El humano
+  - [ ] Contraseñas débiles: <http://alt1040.com/2009/02/las-contrasenas-mas-usadas-en-internet-siguen-siendo-las-mas-inseguras>
+
+  - [ ] Ashley Madison scandal: <https://en.wikipedia.org/wiki/Ashley_Madison_data_breach>
+  - [ ] Hacker en Jargon: <http://www.catb.org/jargon/html/H/hacker.html>
+  - [ ] Ética Hacker: Wikipedia <http://es.wikipedia.org/wiki/%C3%89tica_hacker>
+  - [ ] How to become a hacker <http://www.catb.org/~esr/faqs/hacker-howto.html>
+  - [ ] How To Ask Questions The Smart Way <http://www.catb.org/~esr/afqs/smart-questions.html>
+  - [ ] Libro Pekka Himanen <http://eprints.rclis.org/12851/1/pekka.pdf> quién quiere leerlo y presentarlo?
+
+  - [ ] Video political hacking: <http://hackitat.com/>
+
+  - [ ] "Oh I'm sorry, your thief is anonymous, we should have tagged everyone with RFID": crime is anonymous by default
+    - Nadine speech: <https://vimeo.com/146336938>
+
+  - [ ] *Anonymous*: hacking + libertad de expresión
+    The movie "We are legion":
+     Trailer: <http://www.youtube.com/watch?feature=player_embedded&v=hY6CbMPguWU>
+     About: <http://wearelegionthedocumentary.com/about-the-film/>
+     Full movie: <https://www.youtube.com/watch?v=YcAh0pt_fu8>
+    - La policía detiene a la "cúpula" de Anonymous??
+      <http://alt1040.com/2011/06/policia-detiene-cupula-anonymous-espana>
+
+  - [ ] Hacking?
+    - [ ] Gran poder para el individuo
+    - [ ] "Todo gran poder conlleva una gran responsabilidad"
+    - [ ] Sistemas críticos
+      - [ ] cada vez la sociedad es más permeable a ataques a gran escala: controlar semáforos, armas, redes eléctricas, sistemas de seguridad de centrales nucleares
+      - [ ] Cada vez mayor dependencia de la tecnología: quien controle las máquinas, >> poder
+
+
+  - [ ] <http://haveibeenpwned.com>
+  - [ ] Un poco de infowar
+    - Stuxnet: <http://vimeo.com/25118844>
+*** (3 días) * Privilegios. Brecha digital (edad, origen, clase, género, región).
+https://cyber.harvard.edu/questions/elp2018 6oct->5nov
+
+- Fairness AI
+- Partnership Fair AI / Social Good (Google, Fb, Az, pero tb EFF, Amnistia...): https://www.partnershiponai.org/
+
+   - G Img https://www.vozpopuli.com/memesis/Google-machista-racista-buscador_0_1027697686.html
+       - profesor / profesora
+       - "disfraz de profesor"
+       - "disfraz de profesora"
+
+
+- [ ] Privilegios? -> Informático "Normal" 
+- [ ] tyranny structurelessness
+- [ ] diestro/zurdo
+- [ ] Grupo -> Presentaciones
+- [ ] Sesgos: en general! https://www.visualcapitalist.com/50-cognitive-biases-in-the-modern-world/
+- [ ] Priv daña igualdad ops, competición justa
+
+**** Intro Privilegios
+- [ ] Gordo, feo, ADHD
+
+- "todo lo puro es artificial"
+
+- (1/N en grupos)
+- Subconsciente variables /Subjetividad -> R consensuada - > dinámicas de poder - > Privilegios
+
+- Objetivo:
+  - sesgos inconscientes que afectan software que usan personas (G, GTranslate, sesgos Mozilla, Bullying, Building Consentful Tech)
+  - "tu código es reflejo de tu ideología"
+
+- Psicología, sutilezas
+
+- antes de nada:
+  - hemos crecido en un mundo con unas *tradiciones consumistas, patriarcales, racistas*, anti-ecológicas, violento, etc
+  - *todxs cometemos micro-violencias, micro-racismos, consumismo*... quien hace mejor una cosa, hace peor otra, y es normal y no pasa nada
+  - vamos a hablar de cosas y privilegios, y algunxs *os lo podéis tomar mal, personal, pq es decir que lo estáis haciendo mal*
+  - *todxs tenemos micro-machismos, chicos y chicas*, igual que *todxs podríamos ser más respetuosos con el medio ambiente* de lo que somos
+
+- *Privilegios*: condiciones estructurales
+  - Pizarra, "lo normal"
+    - hombre, blanco, adulto, media, bien vestido, universitario, trabajando, casado, sin problemas mentales...
+    - Tipos de rango:
+      - *Rango social* (nacimiento): depende del sistema cultural:
+        - nacionalidad, raza, género, orientación sexual, clase/dinero, religión, salud (física, mental), aspecto/belleza, edad...
+      - *Rango contextual* (hay más control): Depende del contexto específico en el que nos encontramos y su cultura grupal:
+        - vestimenta, educación, puesto laboral, estado civil, estilo de comunicación, antigüedad en el grupo, conocimiento y experiencia en el campo...
+      - *Rango psicológico/personal* ("estoy bien"): es menos contextual, más profundo. Proviene de sentirse una persona segura y cuidada en el mundo, del autoconocimiento interior o la autoestima. También se desarrolla al sobrevivir al sufrimiento y resurgir como persona fortalecida y más compasiva.
+        - iniciativa, creatividad, estabilidad emocional, autoestima, capacidad para admitir errores...
+
+
+
+- *Ejercicio* Test privilegio Buzzfeed: *http://j.mp/testpriv*
+  - https://www.buzzfeed.com/alfredomurillo/cual-es-tu-nivel-de-privilegios
+  - pensar:
+    - Cuántxs habéis sido bullied, marginadxs, sentidos solxs, distintxs, no aceptadxs por lo q sois, en algún momento de vuestra vida
+    - a lo mejor nunca, afortunadxs
+    - compartir anécdotas, historias
+    - p.ej. yo fútbol, racismo
+    - ser rechazado por lo que eres
+
+- !! Privilegio: *step fwd, step backwards* 4min: <https://www.youtube.com/watch?v=hD5f8GuNuGQ>
+- def discriminación: http://www.wordreference.com/definicion/discriminaci%C3%B3n
+
+- rango alto invisible
+  - no puedes ignorarlo, si no abusas sin querer
+
+- Comic muy bueno, rápido, sobre cómo condiciones estructurales de clase importan: <http://thewireless.co.nz/articles/the-pencilsword-on-a-plate>
+
+
+- Privilegio por ser blanco, stats:
+  - <https://www.thenewprogressive.net/ultimate-white-privilege-statistics/>
+  - meh: <https://www.theroot.com/yes-you-can-measure-white-privilege-1794303451>
+
+- ( https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads?language=en )
+
+- Subjetividad -> Utilidad de la Diversidad:
+  - Mundo se  ve con distintos ojos si distinto privilegio
+  - Si iguales, +parecido, uniforme
+  - Si diferentes, diversidad, riqueza, complejidad, innovación
+    - Si cruce, mezcla, o rarezas, en misma persona, más riqueza
+  - Innovación está en los márgenes, no en el mainstream
+  - Grandes instituciones buscan en los márgenes
+  - Diversidad : Portada New Yorker https://media.newyorker.com/photos/5be5d1783101704813010c72/master/w_727,c_limit/CoverStory-STORY_Blitt_Congress.jpg
+
+
+- Pathetic Dot: Ley / Norm / Merc / Código
+  - Normas sociales <- Privilegios!
+- Sesgos en comunidades
+  - [ ] FLOSS: 2%! 
+  - [ ] https://www.theguardian.com/technology/2016/feb/12/women-considered-better-coders-hide-gender-github
+
+
+**** Intro Género
+
+- !! Privilegio: *step fwd, step backwards* 4min: <https://www.youtube.com/watch?v=hD5f8GuNuGQ>
+- [ ] *Sesgos: en general!* https://www.visualcapitalist.com/50-cognitive-biases-in-the-modern-world/
+- 
+
+- (¿Conferenciante brecha de género?)
+- Género es complejo. Genderbread: <https://www.genderbread.org/resource/genderbread-person-v3-3>
+- *Brainstorming*,  qué se espera de *hombre/mujer*
+  - expectativa h: no llorar, ++sexual, fuerte, ++trabajar/proveer, ++presión, autoridad, violencia
+    - emociones ok? enfado, rabia
+  - expectativa m: belleza, ternura, cuidados
+    - emociones ok? llorar, asco
+
+- ¿Cuánto es *biológico* y cuánto cultural? ¿Diferencias a nivel cerebral? La *gata* de Shrodinger: https://www.youtube.com/watch?v=NcuahUUOQmA
+
+- Educación, tradicionalmente: *Círculo hombre (flecha a sí mismo)*, círculo mujer (flecha hacia chico/otrxs)
+  - los hombres tb sufren mil por el patriarcado
+    - roles de género
+      - estereotipos
+
+- DearWhitePeople: como dijimos con la raza, todo esto es inventado por nuestra cultura
+  - cambian con el tiempo, no bio
+  - "Men are scared women will laugh at them. Women are scared men will kill them" (Margaret Atwood)
+
+- Barreras igualdad
+  - [ ] *¿Quiénes han visto conferencia?*
+    - Barreras igualdad, igualdad vs equidad: https://twitter.com/Levance_/status/1268079843004026880?s=20
+  - Minuto 34:00 https://youtu.be/cZZrtVdaLXQ?t=2083
+  - Poder y oportunidad
+    - si no ves proyección, foco fuera, familia, etc
+  - Masa crítica
+    - pocas
+  - Club de hombres
+    - fútbol, "corta el rollo"
+  - Modelo masculino
+    - peso líder? valores hombre
+  - Sesgos inconscientes
+    - *Ejercicio*: *Project Implicit* of Harvard: https://implicit.harvard.edu/implicit/takeatest.html
+      - "Gender-Career" (muy tradicional, mujer familia, hombre trabajo)
+  - Estereotipos de género
+    - Representación
+
+  
+- Ejercicio Masculinidad tóxica tradicional
+  - Preg Examen
+  - 6 sombreros, xa hablar masculinidad tóxica
+    - https://es.wikipedia.org/wiki/Seis_sombreros_para_pensar
+**** Software sesgos
+- 
+- Amazon despida IA machista: https://www.abc.es/tecnologia/informatica/soluciones/abci-amazon-despide-inteligencia-artificial-reclutamiento-sexista-201810101850_noticia.html
+- Microsoft bot Tay: https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist
+- Google Images (CEO)
+- [ ] *algorithmic bias (8min*, guay), uses of ML in shopping, hiring, imprisoning... inclusive coding: https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms/
+  - o poema del tema, 3min, testeando IAs de Amazon, Google, IBM, Microsoft: https://www.notflawless.ai/
+  - ejemplos: https://www.theverge.com/2018/2/11/17001218/facial-recognition-software-accuracy-technology-mit-white-men-black-women-error
+  - ejemplos (Mozilla, meh): https://internethealthreport.org/2018/intelligent-machines-arent-always-right/
+- Recopilación de sw con sesgos: casos de IAs usadas, aplicación y sesgos encontrados por papers: https://airtable.com/shrsAN2oTf68kM6O9/tblG2604tSoMOcwWX?backgroundColor=teal&viewControls=on
+- 
+- 
+- Sesgos en comunidades 
+  - [ ] https://www.theguardian.com/technology/2016/feb/12/women-considered-better-coders-hide-gender-github
+ 
+**** Project Implicit
+
+- Implicit: https://implicit.harvard.edu/implicit/spain/selectatest.jsp
+  - Para casa, mucho tiempo
+  - Desde móvil: sólo va en inglés, no en castellano
+- 
+- orden pregs, tiempos;
+- tendemos a negar result cdo no nos gusta;
+- = tomar tensión, E +factores;
+- "ir rápido, no he pensado";
+- Hay muchos tests: sesgos/prejuicios contra raza, discapacidad, religión
+
+- 
+- [ ] Hombres en STEM nos creemos objetivos y no creemos que tenemos gender bias
+  - https://www.wired.com/story/why-men-dont-believe-the-data-on-gender-bias-in-science/
+  - "male STEM faculty assessed the quality of real research that demonstrated bias against women in STEM as being low; instead the male faculty favored fake research, designed for the purposes of the study in question, which purported to demonstrate that no such bias exists."
+  - https://www.pnas.org/content/112/43/13201.abstract
+- [ ] Impacto en contrataciones
+
+**** Ejerc grupal
+
+
+Definimos los grupos en oposición al otro
+Los nuestros, los Otros
+Empatizar con el otro lado!
+Ofendidxs en izq (cancel cult), tb en dcha (cazafantasmas)... 
+
+Momento visibilidad género aunque ++priv 
+
+Alice-Bob: 
+- pro
+  - caen en una cancel culture no ya a famosos/poderosos sino a gente común;
+  - buscando continuamente lo que el Otro hace mal -> Twitter
+    - Contra-argumento: https://www.nytimes.com/2019/08/17/opinion/sunday/cancel-culture-call-out.html
+- contra
+  - quieren Business As Usual sin cambios y lo q implica cambios es "estúpido" cdo daña a gente en el hoy
+  - bromas, no es xa tanto, ...
+    - contra-argumento: https://www.youtube.com/watch?v=PB7cTOrAn_4
+
+
+metáfora "caja de bombones"
+
+
+- *Ejerc*:
+- https://j.mp/3sha1xs
+
+
+- Temas a investigar para los 10 grupos. Hay algunos temas controvertidos, y está bien que haya debate y distintas opiniones, por favor respetadlas:
+  1) *Ciber-bullying*: ¿quiénes sufren más ciber-bullying? ¿Y trolling? ¿Y doxing? Documentarse sobre el tema, por ej con esta recopilación de enlaces que hizo Mozilla (https://blog.mozilla.org/internetcitizen/2017/07/31/a-more-inclusive-world-and-web/ ). Extraer conclusiones. 
+  2) "Building *Consentful Tech*". ¿Qué es el consentimiento formalmente? ¿Cómo se puede aplicar a la tecnología? Hay tecnología basada en el consentimiento individual, típicamente muy consciente de privilegios. Esta guía explica el enfoque: http://www.consentfultech.io/wp-content/uploads/2019/10/Building-Consentful-Tech.pdf Explorar, documentarse, y analizar pros y contras. Se puede comparar con otros enfoques.
+  3) *Código de conducta para comunidades* de software libre, adoptado por una gran cantidad de empresas (e.g. Google, Airbnb) y proyectos (e.g. Linux, React): https://www.contributor-covenant.org/version/2/0/code_of_conduct/  Analizarlo, explicar por qué se necesita, listar pros y contras de usarlo. 
+  4) *Post-meritocracy Manifesto* para desarrolladores de software: una alternativa a la meritocracia pura en comunidades de software libre y empresas. https://postmeritocracy.org Analizarlo, compararlo con enfoques de meritocracia pura, listar pros y contras.
+  5) *Mujeres en carreras de informática*: ¿por qué hay menos? ¿siempre ha sido así? ¿factores que pueden estar afectando? Buscar artículos periodísticos al respecto, estadísticas sobre el tema tanto actuales como pasadas, y universidades donde se esté haciendo mejor (con porcentajes crecientes de mujeres) y en otras peor y por qué. Extraer conclusiones. 
+  6) *Sesgos a la hora de contratar*: ¿Qué sesgos inconscientes hay a la hora de contratar? Investigad estudios sobre el tema. Por género son los más típicos (e.g. https://wappp.hks.harvard.edu/event/biases-blind-us-how-gender-stereotypes-constrain-opportunities-women-stem ), aunque podéis buscar también por raza, discapacidad u otros privilegios. ¿Qué medidas se están tomando? E.g. Regla Rooney (Telefónica, BBVA, Santander). Recopilad estudios y medidas, analizad principales conclusiones. 
+  7) *Representación en películas* (Disney, de los Oscar, etc) y series: buscad estadísticas sobre quiénes hablan más, cumplimiento del "test de Bechdel", etc. Lo más típico son por género, aunque podéis buscar por otros privilegios también. Recopilad y extraed principales conclusiones, ¿cómo está la situación hoy día? ¿Ha mejorado con el tiempo, y si es así, cuánto?.
+  8) *Sesgos inconscientes en comportamientos*, roles, y relaciones interpersonales. Los llamados "micro-machismos", "micro-racismos", "micro-violencias", "micro-agresiones", etc. ¿En qué consisten? Recopilaciones de los que encontréis más relevantes, tratando de cubrir distintos privilegios. Compartid experiencias personales (si estáis cómodos al respecto), o buscad online ejemplos reales. Analizad el tema y extraed conclusiones, con un foco en las potenciales consecuencias de que estén tan extendidos.
+     1) - *Vídeo Mario*: sutil vs obvio micromachismos <https://www.youtube.com/watch?v=PB7cTOrAn_4>
+     2) - iceberg: https://www.lavanguardia.com/muyfan/20161023/411244220621/lucia-perez-violencia-machista-agresion-sexual.html
+     3) Modelo Iceberg con otros problemas (e.g. estereotipo informático): http://seedsustainabilityconsulting.com/wp-content/uploads/2014/10/iceberg-model.jpg
+
+  9) *Sesgos en IA*. Como sabemos hay muchos casos (https://airtable.com/shrsAN2oTf68kM6O9/tblG2604tSoMOcwWX?backgroundColor=teal&viewControls=on ), pero ¿qué se está haciendo para paliarlos? Explorad estudios al respecto, y medidas que se están realizando en torno a "Fairness" en IA. Examinad también la "Partnership on IA" donde múltiples entidades (Google, Facebook, Amazon, IBM... junto a organizaciones como el MIT, Mozilla o Unicef) se unen para fomentar diversidad, fairness, transparencia y el "bien común" en IA. ¿Qué cosas concretas se están haciendo? Extraed conclusiones.
+  10) *Cuidados y navidades* (en escenarios pre-pandemia): ¿Quién lleva el rol de "jefe de proyecto" para organizar la cena de navidad o equivalente en vuestra casa? (es decir, quién planifica, compra, da instrucciones sobre qué hacer) ¿Quién(es) prepara(n) la comida? ¿Quiénes, una vez sentado todo el mundo, trae(n) cosas cuando hace falta? Comparar experiencias personales. Luego buscad estadísticas sobre el reparto de las tareas de cuidado en los hogares españoles (por género, por edad, y si hay datos otras variables).
+  11) *Diferencias de salario* por privilegio. Sobre todo hay datos de género y raza (bienvenidas otras variables si encontráis datos), tanto globalmente como al comparar mismo trabajo, puesto y experiencia. Podéis buscar estadísticas o usar éstas de EEUU:  https://www.payscale.com/research-and-insights/gender-pay-gap/ ¿Hasta qué punto se gana más dinero para el mismo trabajo y experiencia, dependiendo de privilegios? 
+
+
+------------
+
+  12) *Escándalo del Gamergate*: en 2014, hubo un escándalo en el mundo de los video-juegos que se considera un choque cultural sobre diversidad e identidad de quiénes son "gamers". En un lado se reivindicaba machismo de la comunidad, y en otro falta de libertad de expresión, aunque eventualmente derivó en amenazas, ataques y doxing de varias mujeres. Analizad ambos lados de la controversia, y extraed conclusiones. 
+  13) Experimentos de *inversión de roles* (si algún grupo se anima). Implica hacerse cuentas en distintos entornos (Twitter, forocoches, foroenfemenino, Tumblr, etc) con un usuario que designa claramente un género distinto al real (también se puede hacer con raza y otros privilegios, aunque el efecto más claro se suele conseguir con género). Luego fomentar interacción y comparar experiencias. También documentarse sobre otros intentos de hacer eso y sus resultados. Extraer conclusiones. 
+  14) *Sesgos en el lenguaje*. "Lenguaje inclusivo" vs "ofenderse por todo" vs "Lenguaje políticamente correcto"... Documentaros sobre este tema que genera mucho debate, y las distintas posturas. ¿Cómo afecta el lenguaje a distintos privilegios? ¿Cómo ha evolucionado su uso? ¿Qué recomendaciones haríais sobre este tema?
+  15) *Delitos de Odio* en el Código Penal: ¿en qué consiste en España? ¿Cómo protege a las víctimas de agresiones por privilegios? ¿Cómo se gestiona en las plataformas online? Ejemplos de sentencias firmes de distintos tipos y privilegios, y extraed conclusiones.
+  16) *Escándalo en Google*: en 2017, James Damore, ingeniero de Google, redactó un controvertido escrito que circuló internamente, y fue despedido por violar el código de conducta de Google. En su escrito, Damore reivindicaba que las mujeres eran peores ingenieras biológicamente, y que eso explicaba las diferencias de género, criticando las políticas de inclusión de Google. Examinad las críticas que se hicieron al escrito, los dos lados de la polémica, y extraed conclusiones de ambos lados.
+  
+
+
+Si usáis fuentes, que sean de medios conocidos, fact-checked o de artículos ampliamente citados. 
+
+
+**** Puestos de trabajo
+
+ - Brecha salarial
+   - *Salarios* gender gap interactive infographic: +http://graphics.wsj.com/gender-pay-gap/?mod=e2twg+
+   - Europa: <http://www.lavanguardia.com/vangdata/20151017/54438154485/mapa-brecha-salarial-hombres-mujeres-ue.html>
+
+ - Contrataciones?
+   - *Orquestas* (+50% blind):
+     - https://www.nber.org/papers/w5903
+     - ++ cited: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=orchesta+blind+auditions+impact&btnG=
+     - https://www.theguardian.com/women-in-leadership/2013/oct/14/blind-auditions-orchestras-gender-bias
+   - *Estudio Harvard CVs*: <http://wappp.hks.harvard.edu/event/biases-blind-us-how-gender-stereotypes-constrain-opportunities-women-stem>
+   - Élites empresas, gobiernos
+     - *Hoy día las élites son hombres: o bien la mujer es inferior, o bien hay techo de cristal*
+     - *Ejercicio rápido*: Si os enteráis que el 95% de jefes en una empresa son mujeres: ¿os parece un problema? ¿querríais currar allí? ¿creeríais que por ser mujer hay más probabilidad de ascender?
+
+ - [ ] *Como cambiarlos sesgos? Cultura, representación*
+
+   - valores se recompensan/penalizan
+     - los predominantes/favorecidos: los tradicionalmente masculinos
+       - se recompensa valiente, duro, agresivo...
+       - se penaliza sensible, la duda, el cuidado
+     - por eso sus trabajos se pagan peor
+
+   - Ejercicio: brainstorming personas famosas
+     - gobernantes
+     - pintores
+     - astronautas
+     - empresarios
+     - científicos
+     - criminales
+     - militares
+
+**** Representación: películas, cultura
+- Suegro de Pablo, hombre mayor: *no veo pelis con protas mujeres o negros pq no me identifico*
+  - exacto, y ellxs?
+  - Elena: "sentía rechazo a chinos pero después de ver peli ring, ya menos, lloran como nosotrxs..." 
+  - en los Oscar, cuánto hablan mujeres/hombres? (BBC) https://ichef.bbci.co.uk/news/976/cpsprodpb/4A3B/production/_100930091_1_oscars_scripts_640-nc.png
+    - de https://www.bbc.com/news/world-43197774
+
+- *Ejercicio grupal*: cada dos grupos cogen un tema, investigáis, +lo presentáis próximo día+ (no querían)
+  - todos trabajan, voluntario exponer, si no sólo acta con conclusiones y ya
+
+- "Cambiemos el guión"
+  - Europa Press: https://www.europapress.es/epsocial/igualdad/noticia-protagonistas-ficcion-no-son-referente-jovenes-espanolas-plan-international-20191009135445.html
+  - Informe con infografías: https://plan-international.es/file/24963/download?token=eIZqzycl
+
+- las opciones "por defecto" importan
+- *2min video* (militar, médico, bombero): <http://www.mullenlowelondon.com/our-work/redraw-the-balance/>
+
+
+  - *Iconos whatsapp*? mujeres doctoras desde 2016: <https://www.elespanol.com/ciencia/tecnologia/20160715/140236456_0.html>
+
+  - *Test Bechdel*: Film test 2 women talking: <https://en.wikipedia.org/wiki/Bechdel_test>
+    - Pelis: <http://www.imdb.com/chart/top>
+    - Efecto "Pitufina"&#x2026; y cuando hay "chica" "está buena"
+
+- Marvel: https://slavicgirlblog.wordpress.com/2018/08/22/how-many-mcu-movies-pass-the-bechdel-test/ 
+
+- Disney: princesas *Ralph rompe internet*
+  - https://www.youtube.com/watch?v=HbpnyGurqGw
+- *Disney* evolución, *3 stats rápidas*: %talking, praises beauty/skill... <https://www.washingtonpost.com/news/wonk/wp/2016/01/25/researchers-have-discovered-a-major-problem-with-the-little-mermaid-and-other-disney-movies/>
+- Pelis Óscar, quien habla+: <https://www.fotogramas.es/noticias-cine/a19460686/oscar-porcentaje-mujeres-hombres/>
+
+
+
+- Las audiencias de televisión/cine/libros/publicidad -> para persona normal:
+  - si audiencia es hombre blanco heterosexual, una tía buena atraerá audiencia/clicks.
+  - -> sobre-representación superficial de la mujer frente al hombre
+  - -> sobre-estimulación continua sexual al hombre heterosexual
+  - -> ver a la mujer como una "chica con la que potencialmente puedo ligar" y al hombre como "un potencial colega",
+  - 
+  - Representación películas
+    - mujer el producto, hombres compiten, "el bueno", "el malo"
+    - asesino? hombre por defecto
+
+**** Cuidados
+- no solo trabajo: media jornada, cobran menos, curran en casa
+  - Economía Amaya: hombre compite contra mundo, labores cuidado privatizadas, feminizadas, invisibilizadas
+  - Él se puede dedicar a lo q se dedica pq hay gente detrás haciéndolo posible
+
+- *Cuidado sigue igual*
+  - "sentador de madres" <https://www.youtube.com/watch?v=uwfFOylxUM8>  
+  - *Ejercicio rápido*: Cómo lo hacéis en navidad en vuestras casas?
+
+- prof salary gap y después:
+  - Ejercicio crear narrativas: chico bailarín, diseño int, chica industriales, militar
+    - imaginar qué supone para esa persona decir sí o no a dedicarse a eso
+    - pros/contras, sitio hostil... 
+
+**** Micromachismos
+  - *Vídeo Mario*: sutil vs obvio micromachismos <https://www.youtube.com/watch?v=PB7cTOrAn_4>
+    - iceberg: https://www.lavanguardia.com/muyfan/20161023/411244220621/lucia-perez-violencia-machista-agresion-sexual.html
+      - Iceberg for racism: <https://twitter.com/KishonnaGray/status/896897119235198976>
+        - (optional): similar, scale for racism: <https://www.instagram.com/p/BX8DYy0gWh0/?r=wa1>
+     
+  - *Micromachismos*:
+    - Video chicos #TuTambien, PP/PSOE/IU, etc: https://www.youtube.com/watch?v=GktgIxCZoeY
+    - ! Vídeo *4min* testimonios mujeres, de los 4 partidos, de++profs: <https://www.youtube.com/watch?v=MB-ySGEYF10>
+    - ! Micromachismos en *asambleas/reuniones* <http://madrid.tomalaplaza.net/2011/06/11/dosier-de-micromachismos-en-las-asambleas/>
+
+  - Video qué hacer ante acoso callejero tíos: https://www.youtube.com/watch?v=IWbH2iPxdy0
+
+  - Juguetes: <http://www.eldiario.es/zonacritica/Sabe-va-regalar-Reyes-ayudamos_6_470063012.html>
+
+**** Invertir roles
+- "*Los hombres tienen miedo de que las mujeres se rían de ellos. Las mujeres tienen miedo de que los hombres las maten*" Margaret Attwood
+- ¿Y si intercambiamos roles chico-chica? ¿Tiene sentido?
+  - <https://twitter.com/manwhohasitall>
+- Inversión de roles, *muy bueno*, 2min, micromachismos "No te ha pasado que...?" <https://www.youtube.com/watch?v=WVRKdakH6fw>
+- 7min video: <https://citeyoco.com/2017/07/06/corto-un-cortometraje-feminista-el-exito-del-verano/>
+- Ejercicio, a la clase: ¿qué cosas habéis hecho para evitar la posibilidad de acoso sexual?
+- Un chico al que le tratan como chica en Twitter <http://verne.elpais.com/verne/2015/03/04/articulo/1425488272_805369.html>
+- Comic: it IS a gender thing (Trans was male, now female, people treat differently): <http://www.robot-hugs.com/technigal/>
+**** Lenguaje
+ - *Lenguaje* puede ser inclusivo para animar a pensar en lxs no privilegiadxs
+
+ - "Este trabajo es una mariconada" -> Hasta un hombre afeminado puede hacerlo -> es menos
+ - Chistes y lenguaje "zorra=puta": <http://www.taringa.net/posts/humor/12064201/Diferencias-entre-hombres-y-mujeres.html>
+
+ - AI aprende a leer -> sexista/racista: <http://www.eldiario.es/cultura/tecnologia/Inteligencia_Artificial-sexismo-racismo_0_632387552.html>
+ - *Google Translate* (doctor, nurse, firefighter, boss, secretary): <https://translate.google.com/#auto/es/X%20is%20a>
+
+ - "Cocinillas": <http://www.eldiario.es/micromachismos/Cocinillas-entromete-tareas-domesticas-RAE_6_618448181.html>
+ - Feminismo DRAE: <http://dle.rae.es/?id=HjuyHQ5>
+
+**** STEM (conferenciante ya)
+ - [-] Why women dont study computer sci?
+    - [ ] Why girls can't code, 1min: <https://www.youtube.com/watch?v=vXeF6Uot8pk>
+    - [ ] Gráfica infor 1980: <http://www.joystiq.com/2014/10/20/what-happened-to-all-of-the-women-coders-in-1984/>
+    - [ ] a great ad on the issue <https://www.youtube.com/watch?v=XP3cyRRAfX0>
+    - [ ] Carta estudiante chico de Ingeniería <http://verne.elpais.com/verne/2015/10/10/articulo/1444486908_235854.html>
+- ¿Son peores?
+    - [ ] Chicas: se las considera mejores programadoras (si ocultan su género): <https://www.theguardian.com/technology/2016/feb/12/women-considered-better-coders-hide-gender-github>
+- ¿Va mejorando?
+    - [ ] Chicas en STEM, stats... bajando!: <http://www.elmundo.es/espana/2015/07/27/55b025f7268e3e3b6e8b459b.html>
+ 
+   - [] #Gamergate
+      - <https://es.wikipedia.org/wiki/Gamergate>
+      - Anita: <https://www.youtube.com/watch?v=9L_Wmeg7OTU>
+      - Pro-Gamer in 60s: <https://www.youtube.com/watch?v=ipcWm4B3EU4>
+
+*** (1 día) Último día
+- resumen global infográfico en pizarra: 10 min
+- examen: 10 min
+- ejerc grupal con exámenes: 45 min
+- dudas: 30 min 
+
+- *Resumen global en dibujos, 10 min*:
+  - Profesión:
+    - pirámides -> ascender
+    - AAPP
+    - PhD
+  - *Plataformas Centralizadas, privacidad y dchos digitales*
+    - Fb + G + Amz
+    - Datos: ads -> priv, censura
+    - ToS, apps
+    - Snowden/NSA
+    - GDPR
+    - Social Media + Propaganda política => Fake news + Trump
+  - *Descentralización*
+    - Criptomonedas
+    - DAOs contratan
+    - Anonimato, privacidad
+  - *Copyright*: casita, (c), lics SL, CC
+    - Comunidades y su gobernanza (______)
+    - Procomún*: bosques, música, WWW
+  - Privilegios: "normal", hombre/mujer, sesgos/poder /\-/\
+    - Cúspide pirámides
+    - Código </> -> AIs <|oo|>
+    - Comunidades (______)
+    - Centralización
+
+- *Ejerc grupal*:
+  - Cada examen: 2 cortas + 2 largas
+  - Cada grupo: elegid de vuestro examen: o 2 preg cortas, o 1 larga
+  - 2019-20 jul/sep: Gr 1,2,3
+  - 2019-20 feb: Gr 4,5,6
+  - 2018-19 jul/sep: Gr 7,8,9
+  - 2018-19 feb: Gr 10,11,12
+
